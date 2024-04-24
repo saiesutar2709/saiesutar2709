@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning AWS and Azure
 - 💞️ I’m looking to collaborate on Cloud Computing
 - 📫 How to reach me Mail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Saie
+- ⚡ Fun fact: 
 
 <!---
 saiesutar2709/saiesutar2709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
